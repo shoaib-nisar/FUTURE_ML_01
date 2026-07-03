@@ -23,7 +23,7 @@ Source: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 | RMSE   | $16,990 |
 | MAPE   | 17.5%   |
 | Naive Baseline MAPE | 25.4% |
-| Beats Naive | ✅ Yes, by 7.9% |
+| Beats Naive | ✅ Yes, by 8.0% |
 
 ## Forecast
 Model predicts next 12 months of sales with 95% 
