@@ -1,4 +1,4 @@
-# Superstore Sales Forecasting
+# Sales & Demand Forecasting for Businesses
 
 ## Overview
 A time series forecasting model that predicts future monthly 
